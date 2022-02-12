@@ -127,5 +127,5 @@ animal1.forEach((val) => {
     (document.getElementById("row") as HTMLElement).innerHTML += val.display();
 });
 }
-// calling the function (cards)
+// calling the function (the cards)
 showCard();

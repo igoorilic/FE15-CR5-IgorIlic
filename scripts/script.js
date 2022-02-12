@@ -110,5 +110,5 @@ function showCard() {
         document.getElementById("row").innerHTML += val.display();
     });
 }
-// calling the function (cards)
+// calling the function (the cards)
 showCard();

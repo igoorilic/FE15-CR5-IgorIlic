@@ -17,6 +17,10 @@
     padding: 10px 0px;
 }
 
+.animate__animated.animate__bounce {
+    --animate-duration: 3s;
+}
+
 .card-body p {
     padding-left: 1vw;
     font-weight: bold;
